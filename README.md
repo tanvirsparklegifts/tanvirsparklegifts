@@ -2,7 +2,7 @@
 
 **Backend & Systems Development · Software Architecture · Security-Minded Prototypes**
 
-[![EliteAxis CI](https://github.com/tanvirsparklegifts/elite-axis-engine/actions/workflows/python-ci.yml/badge.svg)](https://github.com/tanvirsparklegifts/elite-axis-engine/actions/workflows/ci.yml) [![Aetherium browser tests](https://github.com/tanvirsparklegifts/aetherium-vault/actions/workflows/python-ci.yml/badge.svg)](https://github.com/tanvirsparklegifts/aetherium-vault/actions/workflows/ci.yml) [![AERO-X Go CI](https://github.com/tanvirsparklegifts/aero-x-protocol/actions/workflows/python-ci.yml/badge.svg)](https://github.com/tanvirsparklegifts/aero-x-protocol/actions/workflows/ci.yml)
+[![EliteAxis CI](https://github.com/tanvirsparklegifts/elite-axis-engine/actions/workflows/python-ci.yml/badge.svg)](https://github.com/tanvirsparklegifts/elite-axis-engine/actions/workflows/python-ci.yml) [![Aetherium browser tests](https://github.com/tanvirsparklegifts/aetherium-vault/actions/workflows/browser-tests.yml/badge.svg)](https://github.com/tanvirsparklegifts/aetherium-vault/actions/workflows/browser-tests.yml) [![AERO-X Go CI](https://github.com/tanvirsparklegifts/aero-x-protocol/actions/workflows/go-ci.yml/badge.svg)](https://github.com/tanvirsparklegifts/aero-x-protocol/actions/workflows/go-ci.yml)
 
 Independent technology builder based in Bangladesh. I design system concepts and build inspectable software prototypes, with a focus on backend foundations, API design, browser cryptography, and distributed-system simulations.
 
