@@ -1,6 +1,8 @@
 # Md Tanvir Ahammed Tonmoy
 
-**Software Architecture · Python / FastAPI · Go Systems Prototypes · Browser Cryptography**
+**Backend & Systems Development · Software Architecture · Security-Minded Prototypes**
+
+[![EliteAxis CI](https://github.com/tanvirsparklegifts/elite-axis-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/tanvirsparklegifts/elite-axis-engine/actions/workflows/ci.yml) [![Aetherium browser tests](https://github.com/tanvirsparklegifts/aetherium-vault/actions/workflows/ci.yml/badge.svg)](https://github.com/tanvirsparklegifts/aetherium-vault/actions/workflows/ci.yml) [![AERO-X Go CI](https://github.com/tanvirsparklegifts/aero-x-protocol/actions/workflows/ci.yml/badge.svg)](https://github.com/tanvirsparklegifts/aero-x-protocol/actions/workflows/ci.yml)
 
 Independent technology builder based in Bangladesh. I design system concepts and build inspectable software prototypes, with a focus on backend foundations, API design, browser cryptography, and distributed-system simulations.
 
